@@ -25,7 +25,7 @@
                 <option value="id|id">ID</option>       
                 <option value="id|en" ></i>EN</option> 
                     </select>
-
+ 
      <div id="google_translate_element2"></div>
     
 
